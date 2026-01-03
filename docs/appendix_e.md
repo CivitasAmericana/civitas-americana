@@ -40,7 +40,7 @@ To demonstrate the mathematical solvency of the proposed tax structure against t
 | **Core Constitutional Functions** | Courts, DOJ, State Dept, Treasury, Borders | **$0.10 Trillion** |
 | **TOTAL FEDERAL SPENDING** |  | **$5.05 Trillion** |
 
-### *Note on Defense & Veterans: The allocation represents a strategic retrenchment. Savings derived from closing overseas bases and ending foreign aid are reinvested into homeland defense and the unconditional fulfillment of obligations to those who have borne the battle. We do not fund foreign empires; we fund our own defenders.* 
+*Note on Defense & Veterans: The allocation represents a strategic retrenchment. Savings derived from closing overseas bases and ending foreign aid are reinvested into homeland defense and the unconditional fulfillment of obligations to those who have borne the battle. We do not fund foreign empires; we fund our own defenders.* 
 
 ### **III. The Solvency Gap & The Land Bridge**
 
