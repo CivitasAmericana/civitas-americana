@@ -25,10 +25,10 @@ export default function About(): ReactNode {
                 Civitas Americana is a civic project devoted to the preservation and renewal of American self-government.
               </p>
               <p>
-                It begins from a simple but demanding premise: that liberty is not secured by institutions alone, nor by sentiment, nor by periodic elections, but by a people willing to examine power wherever it is exercised. The American constitutional order was designed with uncommon care to restrain authority through structure, division, and law. Yet no design—however wise—can preserve its own meaning indefinitely. Where vigilance declines, power adapts.
+                It begins from a simple but demanding premise: that liberty is not secured by institutions alone, nor by sentiment, nor by periodic elections, but by a people willing to examine power wherever it is exercised. The American constitutional order was designed with uncommon care to restrain authority through structure, division, and law. Yet no design -- however wise -- can preserve its own meaning indefinitely. Where vigilance declines, power adapts.
               </p>
               <p>
-                The Founders of the American republic understood this danger. They disagreed not over whether power corrupts, but over how best to contain it. The Federalists emphasized the necessity of a strong and energetic government capable of governing a large and diverse nation. The Anti-Federalists warned, with equal force, that power once granted tends to expand beyond its justification, especially when distant from the people. History has shown that both were right—and that neither insight alone is sufficient.
+                The Founders of the American republic understood this danger. They disagreed not over whether power corrupts, but over how best to contain it. The Federalists emphasized the necessity of a strong and energetic government capable of governing a large and diverse nation. The Anti-Federalists warned, with equal force, that power once granted tends to expand beyond its justification, especially when distant from the people. History has shown that both were right -- and that neither insight alone is sufficient.
               </p>
               <p>
                 Civitas Americana seeks to complete this unfinished synthesis.
@@ -40,7 +40,7 @@ export default function About(): ReactNode {
                 The centerpiece of this project is the Declaration of Civic Breach and Renewal, which articulates the principles at stake and the strains placed upon constitutional legitimacy in the modern era. Accompanying it is a series of essays titled The Civitas Papers, offered to explain, defend, and apply those principles with discipline and care. These papers are not commentary on daily events, nor prescriptions for immediate action. They are intended to restore habits of constitutional thinking that have too often been neglected.
               </p>
               <p>
-                <em>Civitas</em> is a Latin term meaning citizenship understood as duty. The choice is deliberate. Self-government is not a condition inherited passively, but a practice sustained actively. A free people must do more than consent; they must attend. Where that attention fades, liberty is not overthrown—it is neglected.
+                <em>Civitas</em> is a Latin term meaning citizenship understood as duty. The choice is deliberate. Self-government is not a condition inherited passively, but a practice sustained actively. A free people must do more than consent; they must attend. Where that attention fades, liberty is not overthrown -- it is neglected.
               </p>
             </section>
 
@@ -56,7 +56,7 @@ export default function About(): ReactNode {
                 Civitas Americana does not promise solutions without cost, nor reform without effort. It offers instead a framework for thinking honestly about power, responsibility, and self-government in a constitutional republic. Whether that framework is taken up, challenged, or ignored is a decision that belongs, finally, to the people themselves.
               </p>
               <p>
-                The documents stand for themselves.
+                The text speaks for itself.
               </p>
             </section>
 
