@@ -48,7 +48,7 @@ function PapersSection() {
             The Civitas Papers are a series of essays devoted to the preservation of American self-government.
           </p>
           <p>
-            Serving as a companion to the Declaration, these essays draw from both Federalist structure and Anti-Federalist caution to reject the false choice between strength and restraint. They are numbered, not dated—offered not as commentary on the news of the day, but as an invitation to recover the habits of constitutional thought necessary to restrain power and renew consent.
+            Serving as a companion to the Declaration, these essays draw from both Federalist structure and Anti-Federalist caution to reject the false choice between strength and restraint. They are numbered, not dated -- offered not as commentary on the news of the day, but as an invitation to recover the habits of constitutional thought necessary to restrain power and renew consent.
           </p>
         </div>
         
