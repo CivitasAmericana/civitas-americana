@@ -1,0 +1,161 @@
+.heroBanner {
+  padding: 8rem 2rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('/img/hero-bg.png') center center / cover no-repeat;
+}
+
+.heroOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent, #1a2332);
+  pointer-events: none;
+}
+
+.heroGrid {
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(rgba(212, 168, 85, 0.05) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(212, 168, 85, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+  pointer-events: none;
+}
+
+.heroContent {
+  position: relative;
+  z-index: 10;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 1px solid rgba(212, 168, 85, 0.3);
+  background: rgba(212, 168, 85, 0.05);
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  margin-bottom: 2rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #d4a855;
+}
+
+.badgeDot {
+  width: 8px;
+  height: 8px;
+  background: #d4a855;
+  border-radius: 50%;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.heroTitle {
+  font-family: 'Cinzel', serif;
+  font-size: 3.5rem;
+  font-weight: 500;
+  color: #e8dcc8;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+
+.heroTitle em {
+  font-family: 'Libre Baskerville', serif;
+  color: #d4a855;
+}
+
+.heroSubtitle {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-size: 1.25rem;
+  color: #c9bfb0;
+  border-top: 2px solid rgba(212, 168, 85, 0.3);
+  border-bottom: 2px solid rgba(212, 168, 85, 0.3);
+  padding: 1rem 0;
+  max-width: 500px;
+  margin: 0 auto 2rem;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.papersSection {
+  padding: 6rem 2rem;
+  border-top: 1px solid rgba(212, 168, 85, 0.2);
+  background: #1a2332;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.sectionTitle {
+  font-family: 'Cinzel', serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #e8dcc8;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.separator {
+  width: 100px;
+  height: 2px;
+  background: rgba(212, 168, 85, 0.3);
+  margin: 0 auto 2rem;
+}
+
+.papersIntro {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.125rem;
+  line-height: 1.8;
+  color: #c9bfb0;
+  text-align: center;
+}
+
+.papersIntro p {
+  margin-bottom: 1.5rem;
+}
+
+.papersButton {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  .heroBanner {
+    padding: 4rem 1rem;
+    min-height: auto;
+  }
+  
+  .heroTitle {
+    font-size: 2rem;
+  }
+  
+  .heroSubtitle {
+    font-size: 1rem;
+  }
+  
+  .sectionTitle {
+    font-size: 1.75rem;
+  }
+}
+
